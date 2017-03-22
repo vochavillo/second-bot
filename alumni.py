@@ -8,8 +8,6 @@ def make_soup(url):
     soup = BeautifulSoup(txt, 'lxml')
     return soup
 
-
-
 main_url = 'http://www.policylink.org/about/staff?division=All'
 src_url = 'http://www.policylink.org'
 main_soup = make_soup(main_url)
