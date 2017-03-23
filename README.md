@@ -1,4 +1,9 @@
 # second-bot
+
+How to use:
+ import bot
+ bot.bot
+
 I was recently encouraged to reach out to people to PolicyLink, beginning with any Stanford alum or affiliate. The number of staff people at the organization was large enough to justify writing a web scraping script for this.
 
 The code is pretty straightforward.
